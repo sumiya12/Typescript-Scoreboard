@@ -1,0 +1,13 @@
+.playerscore {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  /* border: 1px solid; */
+}
+.playerscore1 {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  background-color: rgb(133, 201, 201);
+  /* border: 1px solid; */
+}

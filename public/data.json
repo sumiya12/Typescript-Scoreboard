@@ -1,0 +1,46 @@
+{
+  "players": [
+    {
+      "name": "Erhes",
+      "age": 19,
+      "gender": "male",
+      "score": 45
+    },
+    {
+      "name": "Miigaa",
+      "age": 26,
+      "gender": "male",
+      "score": 60
+    },
+    {
+      "name": "Odko",
+      "age": 21,
+      "gender": "female",
+      "score": 61
+    },
+    {
+      "name": "Burmaa",
+      "age": 25,
+      "gender": "female",
+      "score": 30
+    },
+    {
+      "name": "baldan",
+      "age": 25,
+      "gender": "female",
+      "score": 30
+    },
+    {
+      "name": "doljin",
+      "age": 25,
+      "gender": "female",
+      "score": 30
+    },
+    {
+      "name": "baljin",
+      "age": 25,
+      "gender": "female",
+      "score": 30
+    }
+  ]
+}
